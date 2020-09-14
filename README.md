@@ -1,6 +1,6 @@
 # JavaScript 2 - Module 1
 
-## Lesson Task 3 Question
+## Lesson Task 3 Answer
 
 Connect to this API endpoint:
 
